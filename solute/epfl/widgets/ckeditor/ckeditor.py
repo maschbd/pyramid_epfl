@@ -48,7 +48,7 @@ class CKEditorWidget(epflwidgetbase.WidgetBase):
                                 "maximize": False,
                                 "style": False,
                                 "format": False,
-                                "paragraph": False,
+                                "paragraph": True,
                                 "single_row_toolbar": True,
                                 }
 
